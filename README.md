@@ -1,12 +1,15 @@
 **폴더 구조**
+
+```
 project_#5/
-├─ python_src/
-│   └─ app.py
-├─ doc/
-│   └─ images/
-│       ├─ capture1.png
-│       └─ capture2.png
-└─ README.md
+ ├─ python_src/
+ │   └─ app.py
+ ├─ doc/
+ │   └─ images/
+ │       ├─ capture1.png
+ │       └─ capture2.png
+ └─ README.md
+```
 
 1. **src/app.py 작성 및 첫 commit**
    - commit 메시지: `ADD: app.py`
