@@ -28,7 +28,7 @@ project_#5/
 - `capture1.png` → Commit 완료 상태 화면
 - `capture2.png` → GitHub push → pull 후 VS Code 화면
 
-예시:
+캡처  이미지:
 ![첫번째 캡처](doc/images/capture1.png)
 ![두번째 캡처](doc/images/capture2.png)
 
