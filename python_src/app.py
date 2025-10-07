@@ -1,4 +1,4 @@
 a = "This is very hard assignment..."
 print(a)
-b = "Happy Chuseok.!!"
-print(b)
+c = "Happy Chuseok.!!"
+print(c)
